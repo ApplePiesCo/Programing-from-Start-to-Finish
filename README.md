@@ -3,7 +3,7 @@ A course that focuses on learning how to code, Start to Finish! This course will
 
 #Info
 * Text editor I use is atom
-* [Youtube](https://www.youtube.com/playlist?list=PLpgAWO7EX5f0U7a2N1x-HEBPAAoQVKkjE "Programming from Start to Finish Playlist")
+* [Youtube Playlist](https://www.youtube.com/playlist?list=PLpgAWO7EX5f0U7a2N1x-HEBPAAoQVKkjE "Programming from Start to Finish Playlist")
 * Not everyday will be a class
 * Notes and finished code will be posted with the week
 
