@@ -10,3 +10,5 @@ A course that focuses on learning how to code, Start to Finish! This course will
 #Downloads
 [Python](https://www.python.org/ "Python's Homepage")
 [Atom](https://atom.io/ "Atom's Homepage")
+
+#Lesson 0 - Intro
